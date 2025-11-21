@@ -1,0 +1,1032 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\data\\calzadocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\data\\calzadocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\models\\suministra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\suministra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\controllers\\recibecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\controllers\\recibecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dao\\recibedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dao\\recibedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dao\\suministradao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dao\\suministradao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\controllers\\suministracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\controllers\\suministracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\models\\recibe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\recibe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\detalleventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\detalleventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\models\\tipopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\tipopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\models\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\iclienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\iclienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\mantenimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\mantenimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dao\\ventadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dao\\ventadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dao\\tipopedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dao\\tipopedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dao\\proveedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dao\\proveedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dao\\pedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dao\\pedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dao\\mantenimientodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dao\\mantenimientodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dao\\estadopedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dao\\estadopedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dao\\detalleventadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dao\\detalleventadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\controllers\\tipospedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\controllers\\tipospedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\controllers\\mantenimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\controllers\\mantenimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\controllers\\estadospedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\controllers\\estadospedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\controllers\\detalleventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\controllers\\detalleventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\tipopedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\tipopedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\suministraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\suministraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\recibeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\recibeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\services\\estadopedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\services\\estadopedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\models\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dto\\suministradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dto\\suministradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dto\\recibedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dto\\recibedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dto\\mantenimientodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dto\\mantenimientodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dto\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dto\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dto\\tipopedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dto\\tipopedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dto\\estadopedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dto\\estadopedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dto\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dto\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dto\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dto\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\ferna\\onedrive\\escritorio\\proyecto final\\calzado_fatima\\calzado_fatima_api\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Producto.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:10:29.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Recibe.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Recibe.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Recibe.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Recibe.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\Recibe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:27:45.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecibeController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\RecibeController.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\RecibeController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\RecibeController.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Controllers\\RecibeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:50:09.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuministraController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\SuministraController.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\SuministraController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\SuministraController.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Controllers\\SuministraController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:52:53.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalzadoContext.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Data\\CalzadoContext.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Data\\CalzadoContext.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Data\\CalzadoContext.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Data\\CalzadoContext.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAvwOUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:30:22.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuministraDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\SuministraDAO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\SuministraDAO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\SuministraDAO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DAO\\SuministraDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:51:35.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecibeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\RecibeDAO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\RecibeDAO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\RecibeDAO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DAO\\RecibeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:48:50.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suministra.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Suministra.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Suministra.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Suministra.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\Suministra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:26:04.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\ProductoService.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA1wBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:20:41.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleVentaService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\DetalleVentaService.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\DetalleVentaService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\DetalleVentaService.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\DetalleVentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:24:16.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\VentaService.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\VentaService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\VentaService.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\VentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:00:33.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Proveedor.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:07:57.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoPedido.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\TipoPedido.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\TipoPedido.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\TipoPedido.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\TipoPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:21:05.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstadoPedido.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\EstadoPedido.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\EstadoPedido.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\EstadoPedido.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\EstadoPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:29:25.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Venta.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:16:47.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:18:48.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\ClienteService.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\ClienteService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:20:24.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\appsettings.json",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\appsettings.json",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T15:54:02.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Program.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Program.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Program.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:59:19.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IClienteServices.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\IClienteServices.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\IClienteServices.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\IClienteServices.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\IClienteServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T22:21:11.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MantenimientoService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\MantenimientoService.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\MantenimientoService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\MantenimientoService.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\MantenimientoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:44:47.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\ProveedoresController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Controllers\\ProveedoresController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:21:43.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvzQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:28:06.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClienteDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\ClienteDAO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\ClienteDAO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\ClienteDAO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DAO\\ClienteDAO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:10:55.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VentaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\VentaDAO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\VentaDAO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\VentaDAO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DAO\\VentaDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:00:04.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TipoPedidoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\TipoPedidoDAO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\TipoPedidoDAO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\TipoPedidoDAO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DAO\\TipoPedidoDAO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:56:25.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProveedorDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\ProveedorDAO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\ProveedorDAO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\ProveedorDAO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DAO\\ProveedorDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T00:22:14.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\ProductoDAO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\ProductoDAO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\ProductoDAO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DAO\\ProductoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:20:07.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PedidoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\PedidoDAO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\PedidoDAO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\PedidoDAO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DAO\\PedidoDAO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:45:34.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MantenimientoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\MantenimientoDAO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\MantenimientoDAO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\MantenimientoDAO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DAO\\MantenimientoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:43:49.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EstadoPedidoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\EstadoPedidoDAO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\EstadoPedidoDAO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\EstadoPedidoDAO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DAO\\EstadoPedidoDAO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:28:52.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DetalleVentaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\DetalleVentaDAO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\DetalleVentaDAO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DAO\\DetalleVentaDAO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DAO\\DetalleVentaDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:23:12.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:02:10.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TiposPedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\TiposPedidoController.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\TiposPedidoController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\TiposPedidoController.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Controllers\\TiposPedidoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvywAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:58:32.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:43:22.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:48:55.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MantenimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\MantenimientosController.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\MantenimientosController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\MantenimientosController.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Controllers\\MantenimientosController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:45:45.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EstadosPedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\EstadosPedidoController.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\EstadosPedidoController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\EstadosPedidoController.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Controllers\\EstadosPedidoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:34:28.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DetalleVentasController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\DetalleVentasController.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\DetalleVentasController.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Controllers\\DetalleVentasController.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Controllers\\DetalleVentasController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:26:22.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TipoPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\TipoPedidoService.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\TipoPedidoService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\TipoPedidoService.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\TipoPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:57:49.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SuministraService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\SuministraService.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\SuministraService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\SuministraService.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\SuministraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:52:22.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RecibeService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\RecibeService.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\RecibeService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\RecibeService.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\RecibeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:49:32.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProveedorService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\ProveedorService.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\ProveedorService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\ProveedorService.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\ProveedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T00:23:42.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\PedidoService.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\PedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:46:42.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EstadoPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\EstadoPedidoService.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\EstadoPedidoService.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Services\\EstadoPedidoService.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Services\\EstadoPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:32:46.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Cliente.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:03:08.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Mantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Mantenimiento.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Mantenimiento.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Mantenimiento.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\Mantenimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:24:43.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Models\\Pedido.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:22:26.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RecibeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\RecibeDTO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\RecibeDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\RecibeDTO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DTO\\RecibeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:09:00.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MantenimientoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\MantenimientoDTO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\MantenimientoDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\MantenimientoDTO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DTO\\MantenimientoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:07:58.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DetalleVentaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\DetalleVentaDTO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\DetalleVentaDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\DetalleVentaDTO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DTO\\DetalleVentaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:07:34.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EstadoPedidoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\EstadoPedidoDTO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\EstadoPedidoDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\EstadoPedidoDTO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DTO\\EstadoPedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:07:49.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TipoPedidoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\TipoPedidoDTO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\TipoPedidoDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\TipoPedidoDTO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DTO\\TipoPedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:09:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "VentaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\VentaDTO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\VentaDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\VentaDTO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DTO\\VentaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:09:32.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:53:47.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PedidoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\PedidoDTO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\PedidoDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\PedidoDTO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DTO\\PedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:08:13.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SuministraDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\SuministraDTO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\SuministraDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\SuministraDTO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DTO\\SuministraDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:09:10.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProveedorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\ProveedorDTO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\ProveedorDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\ProveedorDTO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DTO\\ProveedorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:08:44.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\ProductoDTO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DTO\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:08:28.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\Proyecto final\\Calzado_Fatima\\CALZADO_FATIMA_API\\DTO\\ClienteDTO.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\DTO\\ClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:07:19.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
