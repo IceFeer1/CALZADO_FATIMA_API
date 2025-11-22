@@ -1966,9 +1966,9 @@
             "type": "integer",
             "format": "int32"
           },
-          "descripcion": {
-            "type": "string",
-            "nullable": true
+          "idProveedor": {
+            "type": "integer",
+            "format": "int32"
           },
           "fechaMantenimiento": {
             "type": "string",
