@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\calzado_fatima_api\\calzado_fatima_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\calzado_fatima_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\calzado_fatima_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\calzado_fatima_api\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\winformsapp1\\frmtipopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\frmtipopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\calzado_fatima_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\winformsapp1\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\winformsapp1\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\winformsapp1\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -15,24 +47,12 @@
       "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\frmmantenimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\calzado_fatima_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\calzado_fatima_api\\calzado_fatima_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\calzado_fatima_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\winformsapp1\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\winformsapp1\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\winformsapp1\\frmtipopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\frmtipopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\winformsapp1\\frmtipopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -155,14 +175,6 @@
       "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\winformsapp1\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\winformsapp1\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\winformsapp1\\services\\suministraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7973C43F-2D5A-413B-AE07-4058565D9D40}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\services\\suministraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -255,10 +267,6 @@
       "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\calzado_fatima_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\calzado_fatima_api\\models\\suministra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\suministra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -309,10 +317,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\calzado_fatima_api\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\calzado_fatima_api\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|solutionrelative:calzado_fatima_api\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8DE7E44-6972-49EB-AA12-A99954907DB6}|CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj|c:\\users\\carlos francisco\\documents\\a1universidad\\2025\\proyectos\\calzado_fatima_api\\calzado_fatima_api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -446,73 +450,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T19:35:45.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmTipoPedido.cs",
+              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmTipoPedido.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FrmTipoPedido.cs",
+              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmTipoPedido.cs",
+              "RelativeToolTip": "WinFormsApp1\\FrmTipoPedido.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:38:10.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmClientes.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\FrmClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T06:11:31.805Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmClientes.cs",
+              "RelativeToolTip": "WinFormsApp1\\FrmClientes.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAlwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T07:15:17.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\appsettings.json",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\appsettings.json",
               "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\appsettings.json",
               "RelativeToolTip": "CALZADO_FATIMA_API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-20T15:54:02.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:18:48.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmMantenimientos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmMantenimientos.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\FrmMantenimientos.cs",
-              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmMantenimientos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp1\\FrmMantenimientos.cs [Dise\u00F1o]",
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\Cliente.cs",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T08:01:17.072Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmMenuPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmMenuPrincipal.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\FrmMenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmMenuPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp1\\FrmMenuPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T04:56:29.386Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmTipoPedido.cs",
-              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmTipoPedido.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\FrmTipoPedido.cs",
-              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmTipoPedido.cs",
-              "RelativeToolTip": "WinFormsApp1\\FrmTipoPedido.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:38:10.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmVentas.cs",
-              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmVentas.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\FrmVentas.cs",
-              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmVentas.cs",
-              "RelativeToolTip": "WinFormsApp1\\FrmVentas.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:40:07.463Z",
+              "WhenOpened": "2025-11-20T02:03:08.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CALZADO_FATIMA_API.http",
+              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API.http",
+              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\CALZADO_FATIMA_API.http",
+              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API.http",
+              "RelativeToolTip": "CALZADO_FATIMA_API\\CALZADO_FATIMA_API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-22T17:46:33.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "FrmMantenimientos.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmMantenimientos.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmMantenimientos.cs",
@@ -525,18 +570,55 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FrmVentas.cs",
+              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmVentas.cs",
+              "RelativeToolTip": "WinFormsApp1\\FrmVentas.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:40:07.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:56:29.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmMantenimientos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmMantenimientos.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FrmMantenimientos.cs",
+              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmMantenimientos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\FrmMantenimientos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:01:17.072Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "FrmTipoPedido.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmTipoPedido.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmTipoPedido.cs",
               "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmTipoPedido.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinFormsApp1\\FrmTipoPedido.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T07:45:29.61Z"
+              "WhenOpened": "2025-11-22T07:45:29.61Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "FrmSuministra.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmSuministra.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmSuministra.cs",
@@ -547,20 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CALZADO_FATIMA_API.http",
-              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API.http",
-              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\CALZADO_FATIMA_API.http",
-              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API.http",
-              "RelativeToolTip": "CALZADO_FATIMA_API\\CALZADO_FATIMA_API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-22T17:46:33.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "FrmSuministra.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmSuministra.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmSuministra.cs",
@@ -568,23 +637,23 @@
               "RelativeToolTip": "WinFormsApp1\\FrmSuministra.cs",
               "ViewState": "AgIAAG4AAAAAAAAAAAAQwIkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T17:35:58.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T17:35:58.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "FrmVentas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmVentas.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmVentas.cs",
               "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmVentas.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinFormsApp1\\FrmVentas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T07:25:57.929Z"
+              "WhenOpened": "2025-11-22T07:25:57.929Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "FrmEstadoPedido.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmEstadoPedido.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmEstadoPedido.cs",
@@ -597,18 +666,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "FrmEstadoPedido.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmEstadoPedido.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmEstadoPedido.cs",
               "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmEstadoPedido.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinFormsApp1\\FrmEstadoPedido.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T07:49:39.072Z"
+              "WhenOpened": "2025-11-22T07:49:39.072Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "FrmRecibe.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmRecibe.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmRecibe.cs",
@@ -621,18 +691,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "FrmRecibe.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmRecibe.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmRecibe.cs",
               "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmRecibe.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinFormsApp1\\FrmRecibe.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T08:04:43.4Z"
+              "WhenOpened": "2025-11-22T08:04:43.4Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "FrmProveedores.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmProveedores.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmProveedores.cs",
@@ -645,18 +716,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "FrmProveedores.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmProveedores.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmProveedores.cs",
               "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmProveedores.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinFormsApp1\\FrmProveedores.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T07:53:16.496Z"
+              "WhenOpened": "2025-11-22T07:53:16.496Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "FrmProductos.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmProductos.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmProductos.cs",
@@ -669,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Producto.cs",
@@ -681,18 +753,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "FrmProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmProductos.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmProductos.cs",
               "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmProductos.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinFormsApp1\\FrmProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T07:18:33.119Z"
+              "WhenOpened": "2025-11-22T07:18:33.119Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "FrmPedidos.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmPedidos.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmPedidos.cs",
@@ -705,18 +778,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "FrmPedidos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmPedidos.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmPedidos.cs",
               "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmPedidos.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinFormsApp1\\FrmPedidos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T07:34:41.273Z"
+              "WhenOpened": "2025-11-22T07:34:41.273Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Models\\Pedido.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Pedido.cs",
@@ -728,7 +802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Mantenimiento.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\Mantenimiento.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Mantenimiento.cs",
@@ -740,7 +814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Mantenimiento.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Models\\Mantenimiento.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Mantenimiento.cs",
@@ -752,7 +826,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "EstadoPedido.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Models\\EstadoPedido.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\EstadoPedido.cs",
@@ -764,7 +838,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "DetalleVenta.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Models\\DetalleVenta.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\DetalleVenta.cs",
@@ -776,7 +850,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "ProveedorService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\ProveedorService.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\ProveedorService.cs",
@@ -788,7 +862,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "MantenimientoService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\MantenimientoService.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\MantenimientoService.cs",
@@ -800,7 +874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "PedidoService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\PedidoService.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\PedidoService.cs",
@@ -812,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "Proveedor.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\Proveedor.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Proveedor.cs",
@@ -824,7 +898,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "CalzadoContext.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Data\\CalzadoContext.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Data\\CalzadoContext.cs",
@@ -836,7 +910,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "MantenimientosController.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Controllers\\MantenimientosController.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\MantenimientosController.cs",
@@ -848,7 +922,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "MantenimientoDAO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DAO\\MantenimientoDAO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\MantenimientoDAO.cs",
@@ -860,7 +934,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "MantenimientoService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Services\\MantenimientoService.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Services\\MantenimientoService.cs",
@@ -872,7 +946,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "FrmDetalleVenta.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmDetalleVenta.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmDetalleVenta.cs",
@@ -883,7 +957,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "FrmDetalleVenta.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmDetalleVenta.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmDetalleVenta.cs",
@@ -895,7 +969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "SuministraService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Services\\SuministraService.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Services\\SuministraService.cs",
@@ -907,31 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "FrmClientes.cs",
-              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmClientes.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\FrmClientes.cs",
-              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmClientes.cs",
-              "RelativeToolTip": "WinFormsApp1\\FrmClientes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T07:15:17.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "FrmClientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmClientes.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\FrmClientes.cs",
-              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmClientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp1\\FrmClientes.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T06:11:31.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "FrmClientes.Designer.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmClientes.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmClientes.Designer.cs",
@@ -943,7 +993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "ClienteService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Services\\ClienteService.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Services\\ClienteService.cs",
@@ -955,7 +1005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "ProveedorService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Services\\ProveedorService.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Services\\ProveedorService.cs",
@@ -967,7 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "RecibeService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Services\\RecibeService.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Services\\RecibeService.cs",
@@ -979,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "TipoPedidoService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Services\\TipoPedidoService.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Services\\TipoPedidoService.cs",
@@ -991,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "VentaService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Services\\VentaService.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Services\\VentaService.cs",
@@ -1003,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "ProductoService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Services\\ProductoService.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Services\\ProductoService.cs",
@@ -1015,7 +1065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "PedidoService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Services\\PedidoService.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Services\\PedidoService.cs",
@@ -1027,7 +1077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "EstadoPedidoService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Services\\EstadoPedidoService.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Services\\EstadoPedidoService.cs",
@@ -1039,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "DetalleVentaService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Services\\DetalleVentaService.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Services\\DetalleVentaService.cs",
@@ -1051,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "ClienteService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\ClienteService.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\ClienteService.cs",
@@ -1063,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "IClienteServices.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\IClienteServices.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\IClienteServices.cs",
@@ -1075,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Models\\Venta.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Venta.cs",
@@ -1087,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "TipoPedido.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Models\\TipoPedido.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\TipoPedido.cs",
@@ -1099,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "Suministra.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Models\\Suministra.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Suministra.cs",
@@ -1111,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "Recibe.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Models\\Recibe.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Recibe.cs",
@@ -1123,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "Proveedor.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Models\\Proveedor.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Proveedor.cs",
@@ -1135,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Cliente.cs",
@@ -1147,7 +1197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "FrmMenuPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\WinFormsApp1\\FrmMenuPrincipal.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\FrmMenuPrincipal.cs",
@@ -1159,7 +1209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "RecibeDAO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DAO\\RecibeDAO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\RecibeDAO.cs",
@@ -1171,7 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "Suministra.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\Suministra.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Suministra.cs",
@@ -1183,7 +1233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 67,
               "Title": "ProductoService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\ProductoService.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\ProductoService.cs",
@@ -1195,7 +1245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "DetalleVentaService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\DetalleVentaService.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\DetalleVentaService.cs",
@@ -1207,7 +1257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Program.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Program.cs",
@@ -1219,7 +1269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 75,
               "Title": "VentaService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\VentaService.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\VentaService.cs",
@@ -1231,19 +1281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\Cliente.cs",
-              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T02:03:08.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\Pedido.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Pedido.cs",
@@ -1255,7 +1293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "PedidoDAO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DAO\\PedidoDAO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\PedidoDAO.cs",
@@ -1267,7 +1305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "SuministraDAO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DAO\\SuministraDAO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\SuministraDAO.cs",
@@ -1279,7 +1317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\appsettings.Development.json",
@@ -1291,7 +1329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "SuministraController.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Controllers\\SuministraController.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\SuministraController.cs",
@@ -1303,7 +1341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "RecibeController.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Controllers\\RecibeController.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\RecibeController.cs",
@@ -1315,7 +1353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "Recibe.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\Recibe.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Recibe.cs",
@@ -1327,7 +1365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Producto.cs",
@@ -1339,7 +1377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "TipoPedido.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\TipoPedido.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\TipoPedido.cs",
@@ -1351,7 +1389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "EstadoPedido.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\EstadoPedido.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\EstadoPedido.cs",
@@ -1363,7 +1401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 78,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\Venta.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\Venta.cs",
@@ -1375,19 +1413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "DetalleVenta.cs",
-              "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
-              "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
-              "ToolTip": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
-              "RelativeToolTip": "CALZADO_FATIMA_API\\Models\\DetalleVenta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T02:18:48.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "ProveedoresController.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Controllers\\ProveedoresController.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\ProveedoresController.cs",
@@ -1399,7 +1425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\ClientesController.cs",
@@ -1411,7 +1437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "ClienteDAO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DAO\\ClienteDAO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\ClienteDAO.cs",
@@ -1423,7 +1449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "VentaDAO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DAO\\VentaDAO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\VentaDAO.cs",
@@ -1435,7 +1461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "TipoPedidoDAO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DAO\\TipoPedidoDAO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\TipoPedidoDAO.cs",
@@ -1447,7 +1473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "ProveedorDAO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DAO\\ProveedorDAO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\ProveedorDAO.cs",
@@ -1459,7 +1485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "ProductoDAO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DAO\\ProductoDAO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\ProductoDAO.cs",
@@ -1471,7 +1497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "EstadoPedidoDAO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DAO\\EstadoPedidoDAO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\EstadoPedidoDAO.cs",
@@ -1483,7 +1509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 87,
               "Title": "DetalleVentaDAO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DAO\\DetalleVentaDAO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DAO\\DetalleVentaDAO.cs",
@@ -1495,7 +1521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 88,
               "Title": "VentasController.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Controllers\\VentasController.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\VentasController.cs",
@@ -1507,7 +1533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 89,
               "Title": "TiposPedidoController.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Controllers\\TiposPedidoController.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\TiposPedidoController.cs",
@@ -1519,7 +1545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 90,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\ProductosController.cs",
@@ -1531,7 +1557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 91,
               "Title": "PedidosController.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Controllers\\PedidosController.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\PedidosController.cs",
@@ -1543,7 +1569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 92,
               "Title": "EstadosPedidoController.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Controllers\\EstadosPedidoController.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\EstadosPedidoController.cs",
@@ -1555,7 +1581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 93,
               "Title": "DetalleVentasController.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Controllers\\DetalleVentasController.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Controllers\\DetalleVentasController.cs",
@@ -1567,7 +1593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 94,
               "Title": "TipoPedidoService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\TipoPedidoService.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\TipoPedidoService.cs",
@@ -1579,7 +1605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 95,
               "Title": "SuministraService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\SuministraService.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\SuministraService.cs",
@@ -1591,7 +1617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 96,
               "Title": "RecibeService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\RecibeService.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\RecibeService.cs",
@@ -1603,7 +1629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 97,
               "Title": "EstadoPedidoService.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Services\\EstadoPedidoService.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Services\\EstadoPedidoService.cs",
@@ -1615,7 +1641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 100,
               "Title": "RecibeDTO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DTO\\RecibeDTO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\RecibeDTO.cs",
@@ -1627,7 +1653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 101,
               "Title": "MantenimientoDTO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DTO\\MantenimientoDTO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\MantenimientoDTO.cs",
@@ -1639,7 +1665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 102,
               "Title": "DetalleVentaDTO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DTO\\DetalleVentaDTO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\DetalleVentaDTO.cs",
@@ -1651,7 +1677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 105,
               "Title": "EstadoPedidoDTO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DTO\\EstadoPedidoDTO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\EstadoPedidoDTO.cs",
@@ -1663,7 +1689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 104,
               "Title": "TipoPedidoDTO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DTO\\TipoPedidoDTO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\TipoPedidoDTO.cs",
@@ -1675,7 +1701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 103,
               "Title": "VentaDTO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DTO\\VentaDTO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\VentaDTO.cs",
@@ -1687,7 +1713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 98,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\Profiles\\MappingProfile.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\Profiles\\MappingProfile.cs",
@@ -1699,7 +1725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 106,
               "Title": "PedidoDTO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DTO\\PedidoDTO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\PedidoDTO.cs",
@@ -1711,7 +1737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 99,
               "Title": "SuministraDTO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DTO\\SuministraDTO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\SuministraDTO.cs",
@@ -1723,7 +1749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 107,
               "Title": "ProveedorDTO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DTO\\ProveedorDTO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\ProveedorDTO.cs",
@@ -1735,7 +1761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 108,
               "Title": "ProductoDTO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DTO\\ProductoDTO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\ProductoDTO.cs",
@@ -1747,7 +1773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 109,
               "Title": "ClienteDTO.cs",
               "DocumentMoniker": "C:\\Users\\CARLOS FRANCISCO\\Documents\\A1Universidad\\2025\\Proyectos\\CALZADO_FATIMA_API\\CALZADO_FATIMA_API\\DTO\\ClienteDTO.cs",
               "RelativeDocumentMoniker": "CALZADO_FATIMA_API\\DTO\\ClienteDTO.cs",

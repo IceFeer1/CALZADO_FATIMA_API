@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CALZADO_FATIMA_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+349147ca28769628dd81c2f904c63c20f1f2a8b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a1d325fcdd7f9a6eff8742cf213a0b27d7ff0e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CALZADO_FATIMA_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CALZADO_FATIMA_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

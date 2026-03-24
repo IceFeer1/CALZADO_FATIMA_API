@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "CALZADO_FATIMA_API\\CALZADO_FATIMA_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WinFormsApp1\\WinFormsApp1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
